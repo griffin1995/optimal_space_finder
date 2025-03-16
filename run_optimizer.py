@@ -3,7 +3,7 @@ from spatial_analyser import SpawnOptimizer
 
 # Load walkable tiles data
 print("Loading walkable tiles...")
-walkable_data = np.loadtxt('walkable_tiles.txt')
+walkable_data = np.loadtxt("walkable_tiles.txt")
 print(f"Loaded walkable tiles with shape {walkable_data.shape}")
 print(f"Total walkable tiles: {np.sum(walkable_data)}")
 
