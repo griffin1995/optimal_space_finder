@@ -1,0 +1,297 @@
+[
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 21,
+        "z": 1,
+        "color": "#FFF100FF"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 20,
+        "regionY": 31,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "START"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 36,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 39,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 37,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 34,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 19,
+        "regionY": 35,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 35,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 23,
+        "regionY": 32,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 18,
+        "regionY": 34,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 30,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 31,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 36,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 27,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 37,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 22,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 29,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 12,
+        "regionY": 38,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 28,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 29,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 40,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 26,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 19,
+        "regionY": 41,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 36,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 41,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 39,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 20,
+        "regionY": 38,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 34,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 23,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 35,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 41,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 32,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 20,
+        "regionY": 39,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 38,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 21,
+        "regionY": 41,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 34,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 41,
+        "z": 1,
+        "color": "#FFF100FF",
+        "label": "1"
+    }
+]
