@@ -1,1 +1,314 @@
-[{"regionId":15008,"regionX":20,"regionY":31,"z":1,"color":"#FFF100FF","label":"START"},{"regionId":15008,"regionX":14,"regionY":36,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":37,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":13,"regionY":34,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":30,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":12,"regionY":38,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":14,"regionY":28,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":14,"regionY":29,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":40,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":26,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":19,"regionY":41,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":36,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":41,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":35,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":15,"regionY":32,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":20,"regionY":39,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":16,"regionY":41,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":38,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":15,"regionY":23,"z":1,"color":"#FFF100FF","label":"4"},{"regionId":15008,"regionX":17,"regionY":34,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":16,"regionY":30,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":16,"regionY":29,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":16,"regionY":32,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":15,"regionY":22,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":19,"regionY":39,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":24,"regionY":27,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":17,"regionY":39,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":15,"regionY":36,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":15,"regionY":41,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":16,"regionY":35,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":18,"regionY":37,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":15,"regionY":34,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":23,"regionY":32,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":15,"regionY":39,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":13,"regionY":39,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":20,"regionY":36,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":14,"regionY":35,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":21,"regionY":41,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":18,"regionY":34,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":15,"regionY":26,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":20,"regionY":41,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":13,"regionY":36,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":13,"regionY":38,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":15,"regionY":30,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":15,"regionY":37,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":17,"regionY":27,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":20,"regionY":35,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":20,"regionY":37,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":18,"regionY":36,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":15,"regionY":25,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":19,"regionY":35,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":18,"regionY":38,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":14,"regionY":33,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":14,"regionY":37,"z":1,"color":"#FFF100FF","label":"4"},{"regionId":15008,"regionX":20,"regionY":40,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":19,"regionY":36,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":20,"regionY":38,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":20,"regionY":34,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":23,"regionY":31,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":13,"regionY":35,"z":1,"color":"#FFF100FF","label":"4"},{"regionId":15008,"regionX":16,"regionY":31,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":14,"regionY":21,"z":1,"color":"#FFF100FF","label":"1 "},{"regionId":15008,"regionX":16,"regionY":27,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":15,"regionY":29,"z":1,"color":"#FFF100FF","label":"1"},{"regionId":15008,"regionX":14,"regionY":34,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":15,"regionY":31,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":19,"regionY":40,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":13,"regionY":37,"z":1,"color":"#FFF100FF","label":"3"},{"regionId":15008,"regionX":15,"regionY":24,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":21,"regionY":40,"z":1,"color":"#FFF100FF","label":"2"},{"regionId":15008,"regionX":16,"regionY":36,"z":1,"color":"#FFF100FF","label":"4"}]
+[
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "START"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 18,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 17,
+        "regionY": 12,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 9,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 8,
+        "regionY": 16,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 12,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 9,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 7,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 19,
+        "regionY": 14,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 10,
+        "regionY": 16,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 9,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 11,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 13,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 11,
+        "regionY": 14,
+        "z": 1,
+        "color": "#e28743",
+        "label": "6"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 12,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 19,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 12,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 12,
+        "regionY": 14,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 9,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 12,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 12,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 10,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 8,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 9,
+        "regionY": 17,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 14,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 14,
+        "regionY": 11,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 15,
+        "regionY": 10,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 8,
+        "regionY": 17,
+        "z": 1,
+        "color": "#e28743",
+        "label": "1"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 20,
+        "regionY": 14,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 21,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 11,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 19,
+        "regionY": 13,
+        "z": 1,
+        "color": "#e28743",
+        "label": "4"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 10,
+        "regionY": 14,
+        "z": 1,
+        "color": "#e28743",
+        "label": "4"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 10,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 16,
+        "regionY": 11,
+        "z": 1,
+        "color": "#e28743",
+        "label": "4"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 13,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "3"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 7,
+        "regionY": 16,
+        "z": 1,
+        "color": "#e28743",
+        "label": "4"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 9,
+        "regionY": 16,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    },
+    {
+        "regionId": 15008,
+        "regionX": 20,
+        "regionY": 15,
+        "z": 1,
+        "color": "#e28743",
+        "label": "2"
+    }
+]
